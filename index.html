@@ -204,7 +204,7 @@ chips('back',[['Java','java'],['Python','python'],['NodeJS','node'],['Go','go'],
 chips('front',[['TypeScript','ts'],['NextJS','next'],['HTML','html'],['CSS','css']]);
 
 // ---- реальный онлайн сервера (Minecraft Java) ----
-var HOST='ragehvh.mooo.com',KEY='srv-hist-v1',DAY=864e5;
+var HOST='ragehvh.mooo.com:24601',KEY='srv-hist-v1',DAY=864e5;
 function load(){try{return JSON.parse(localStorage.getItem(KEY))||[]}catch(e){return []}}
 function save(a){try{localStorage.setItem(KEY,JSON.stringify(a))}catch(e){}}
 function getStatus(){
