@@ -50,8 +50,10 @@ window.SITE = {
   projects: [
     { name: 'RageHvH', url: 'https://rageshop.mooo.com', domain: 'ragehvh', tld: '.mooo.com',
       color: '#ff4040', icon: 'assets/rage.png', tags: ['owner', 'coder'] },
-    { name: 'Prem1umGame bio', url: 'https://zow.mooo.com', domain: 'zow', tld: '.mooo.com',
-      color: '#ff9af5', icon: 'assets/favicon.svg', tags: ['owner', 'design', 'coder'] }
+    { name: 'Prem1umGame Bio', url: 'https://zow.mooo.com', domain: 'zow', tld: '.mooo.com',
+      color: '#ff9af5', icon: 'assets/favicon.svg', tags: ['owner', 'design', 'coder'] },
+    { name: 'TheKosti23 Bio', url: 'https://zow.mooo.com', domain: 'zow', tld: '.mooo.com',
+      color: '#FF45EC', icon: 'assets/favicon.svg', tags: ['owner', 'design', 'coder'] }
   ],
 
   // иконки навыков: короткое имя берётся из assets основного сайта (java, python, node, go, mysql, ts, next, html, css),
