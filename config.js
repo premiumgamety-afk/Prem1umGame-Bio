@@ -27,7 +27,7 @@ window.SITE = {
   // Minecraft-сервер (онлайн показывается в карточке)
   server: {
     host: 'ragehvh.my.to:24601',
-    display: 'RageHvH.mooo.com'
+    display: 'RageHvH.my.to:24601'
   },
 
   music: {
@@ -48,11 +48,11 @@ window.SITE = {
   projectsIntro: 'Уже давно занимаюсь проектами на Minecraft, Discord, Сайты, также делаю свои программы. Все проекты сделаны полностью мной',
   // tags: 'owner' (Владелец), 'design' (Дизайн), 'coder' (Кодер) или любой свой текст
   projects: [
-    { name: 'RageHvH', url: 'https://rageshop.my.to', domain: 'rageshop', tld: '.my.to',
+    { name: 'RageHvH', url: 'https://rageshop.my.to', domain: 'ragehvh.my.to:24601', tld: '.my.to',
       color: '#ff4040', icon: 'assets/rage.png', tags: ['owner', 'coder'] },
     { name: 'Prem1umGame Bio', url: 'https://zow.my.to', domain: 'zow', tld: '.my.to',
       color: '#ff9af5', icon: 'assets/favicon.svg', tags: ['owner', 'design', 'coder'] },
-    { name: 'TheKosti23 Bio', url: 'https://zow.mooo.com', domain: 'zovv', tld: '.my.to',
+    { name: 'TheKosti23 Bio', url: 'https://zovv.my.to', domain: 'zovv', tld: '.my.to',
       color: '#FF45EC', icon: 'assets/kosti.svg', tags: ['co-owner', 'design', 'coder'] }
   ],
 
