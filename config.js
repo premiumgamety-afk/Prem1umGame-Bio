@@ -26,7 +26,7 @@ window.SITE = {
 
   // Minecraft-сервер (онлайн показывается в карточке)
   server: {
-    host: 'ragehvh.mooo.com:24601',
+    host: 'ragehvh.my.to:24601',
     display: 'RageHvH.mooo.com'
   },
 
@@ -40,19 +40,19 @@ window.SITE = {
   // Discord через Lanyard (нужно зайти на сервер discord.gg/lanyard)
   discord: {
     id: '1315925668403482644',
-    name: 'premiumgame_',
-    username: '@premiumgame_',
+    name: 'Prem1umGame 🥀',
+    username: '@the_css',
     avatar: 'assets/avatar.png'
   },
 
   projectsIntro: 'Уже давно занимаюсь проектами на Minecraft, Discord, Сайты, также делаю свои программы. Все проекты сделаны полностью мной',
   // tags: 'owner' (Владелец), 'design' (Дизайн), 'coder' (Кодер) или любой свой текст
   projects: [
-    { name: 'RageHvH', url: 'https://rageshop.mooo.com', domain: 'ragehvh', tld: '.mooo.com',
+    { name: 'RageHvH', url: 'https://rageshop.my.to', domain: 'rageshop', tld: '.my.to',
       color: '#ff4040', icon: 'assets/rage.png', tags: ['owner', 'coder'] },
-    { name: 'Prem1umGame Bio', url: 'https://zow.mooo.com', domain: 'zow', tld: '.mooo.com',
+    { name: 'Prem1umGame Bio', url: 'https://zow.my.to', domain: 'zow', tld: '.my.to',
       color: '#ff9af5', icon: 'assets/favicon.svg', tags: ['owner', 'design', 'coder'] },
-    { name: 'TheKosti23 Bio', url: 'https://zow.mooo.com', domain: 'zow', tld: '.mooo.com',
+    { name: 'TheKosti23 Bio', url: 'https://zow.mooo.com', domain: 'zovv', tld: '.my.to',
       color: '#FF45EC', icon: 'assets/kosti.svg', tags: ['co-owner', 'design', 'coder'] }
   ],
 
@@ -71,7 +71,7 @@ window.SITE = {
   },
 
   footer: {
-    logo: 'zow.mooo.com | Prem1umGame solutions',
+    logo: 'zow.my.to | Prem1umGame solutions',
     note: 'Весь этот сайт сделала нейросеть, за исключением дизайна, вдохновился у zov.wtf'
   }
 };
