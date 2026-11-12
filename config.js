@@ -53,7 +53,9 @@ window.SITE = {
     { name: 'Prem1umGame Bio', url: 'https://zow.my.to', domain: 'zow', tld: '.my.to',
       color: '#ff9af5', icon: 'assets/favicon.svg', tags: ['owner', 'design', 'coder'] },
     { name: 'TheKosti23 Bio', url: 'https://zovv.my.to', domain: 'zovv', tld: '.my.to',
-      color: '#FF45EC', icon: 'assets/kosti.svg', tags: ['co-owner', 'design', 'coder'] }
+      color: '#FF45EC', icon: 'assets/kosti.svg', tags: ['co-owner', 'design', 'coder'] },
+    { name: 'AirDLC', url: 'https://AirDLC.my.to', domain: 'AirDLC', tld: '.my.to',
+      color: '#7178E0', icon: 'assets/air.png', tags: ['owner', 'design', 'coder'] }
   ],
 
   // иконки навыков: короткое имя берётся из assets основного сайта (java, python, node, go, mysql, ts, next, html, css),
