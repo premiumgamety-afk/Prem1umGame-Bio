@@ -32,7 +32,7 @@ window.SITE = {
 
   // счётчик посетителей (Firebase Realtime Database). Адрес базы вставь сюда, без / на конце
   visitors: {
-    db: 'https://ТВОЯ-БАЗА-default-rtdb.firebaseio.com'
+    db: 'https://prem1umgame-bio-default-rtdb.europe-west1.firebasedatabase.app'
   },
 
   music: {
